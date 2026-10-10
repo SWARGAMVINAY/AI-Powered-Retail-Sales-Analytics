@@ -1,3 +1,4 @@
+ 
 # AI-Powered Retail Sales Analytics and Sales Prediction
 
 ## Project Overview
@@ -136,3 +137,7 @@ Vinay
 ## Project Domain
 
 Data Analytics and Artificial Intelligence
+=======
+# AI-Powered-Retail-Sales-Analytics
+AI-powered retail sales analytics and machine learning forecasting using the Walmart dataset.
+>>>>>>> a42dbbb0e17057b3edba7748384faaece16bc8dc
